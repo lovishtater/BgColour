@@ -21,7 +21,7 @@
 
 ## Supported Platforms
 
-- Android ([Download APK](https://github.com/lovishtater/DiscoLight/app-release.apk))
+- Android ([Download APK](https://github.com/lovishtater/DiscoLight/raw/master/app-release.apk))
 
 ## How to run
 
