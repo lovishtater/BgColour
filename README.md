@@ -4,6 +4,7 @@
 
 ## ⚡ Features
 
+- Changes Color of Screen Randomly
 - Changes Color of Status Bar too
 <!-- - Reset Button to get back to default Color -->
 
@@ -11,7 +12,7 @@
 
 ### Quick preview
 
-![Screenshot gif](bgChanger.gif)
+![Screenshot gif](public/img/bgChanger.gif)
 
 ## 💻 Technologies
 
